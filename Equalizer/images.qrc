@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>down1.jpeg</file>
+        <file>left1.jpeg</file>
+        <file>play1.png</file>
+        <file>plus.png</file>
+        <file>right1.jpeg</file>
+        <file>stop.jpeg</file>
+        <file>up1.jpeg</file>
+        <file>up.png</file>
+        <file>down.png</file>
+        <file>stop.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>minus.png</file>
+    </qresource>
+</RCC>
